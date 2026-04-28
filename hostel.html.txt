@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hostel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Hostel Life 🏨</h1>
+
+<p>No separate hostels for boys and girls 😎</p>
+<p>Everyone stays together = full unity 😂</p>
+
+<ul>
+  <li>Free WiFi (sometimes works)</li>
+  <li>24/7 Maggi availability</li>
+  <li>Sleep optional</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>

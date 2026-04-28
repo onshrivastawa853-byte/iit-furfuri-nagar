@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Placements</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Placements 💼</h1>
+
+<p>100% placement guarantee (trust us 😏)</p>
+
+<ul>
+  <li>Kalia Industries – ₹50 LPA</li>
+  <li>Dholakpur Tech – ₹1 Cr Package</li>
+  <li>Chai Startup – Unlimited Tea</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>

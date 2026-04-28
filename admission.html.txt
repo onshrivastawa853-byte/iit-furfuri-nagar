@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admission - IIT Furfuri Nagar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Admission Form 🎓</h1>
+
+<form>
+  Name: <input type="text"><br><br>
+  Age: <input type="number"><br><br>
+
+  Course:
+  <select>
+    <option>Laddu Engineering</option>
+    <option>Jugaad Tech</option>
+    <option>Cartoon Physics</option>
+  </select><br><br>
+
+  Why should we select you?<br>
+  <textarea></textarea><br><br>
+
+  <button type="submit">Apply Now 🚀</button>
+</form>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>

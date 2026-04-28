@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Success & Net Worth</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Success Stories 🚀</h1>
+
+<p>Our alumni are ruling the world 🌍</p>
+
+<ul>
+  <li>Raju – CEO of Jugaad Corp (Net Worth: ₹500 Cr)</li>
+  <li>Chutki – AI Queen (Net Worth: ₹1000 Cr)</li>
+  <li>Jaggu – Banana Export King 🍌</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>

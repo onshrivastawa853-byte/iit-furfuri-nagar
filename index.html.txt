@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IIT Furfuri Nagar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>IIT Furfuri Nagar 😂</h1>
+<p>India's No.1 Institute for Timepass Engineering</p>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="admission.html">Admission</a>
+  <a href="hostel.html">Hostel</a>
+  <a href="placement.html">Placement</a>
+  <a href="success.html">Success</a>
+</nav>
+
+<h2>Welcome!</h2>
+<p>Where legends are made and attendance is optional 😎</p>
+
+<h3>Courses Offered</h3>
+<ul>
+  <li>Laddu Engineering</li>
+  <li>Jugaad Technology</li>
+  <li>Cartoon Physics</li>
+</ul>
+
+</body>
+</html>
